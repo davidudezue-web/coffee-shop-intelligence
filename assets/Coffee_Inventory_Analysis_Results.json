@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "source": "Coffee_Shop_Cleaned_Analysis_and_Log(1).xlsx",
+    "sheet": "Pastry_Cleaned",
+    "rows": 307,
+    "notes": [
+      "Recorded waste is used without overwriting originals",
+      "Aggregate rates calculated using weighted ratio of sums, not averages",
+      "3 stock reconciliation and 18 percentage discrepancies retained and flagged"
+    ]
+  },
+  "overall": {
+    "opening": 7386.0,
+    "sold": 2854.0,
+    "waste": 4500.0,
+    "rate_pct": 60.92607636068237,
+    "sellthrough_pct": 38.64067154075278,
+    "remainder": 32.0,
+    "rows": 307
+  },
+  "products": {
+    "Hazelnut Biscotti": {
+      "opening": 1134.0,
+      "sold": 513.0,
+      "waste": 585.0,
+      "rate_pct": 51.58730158730159,
+      "sellthrough_pct": 45.23809523809524,
+      "remainder": 36.0,
+      "rows": 63
+    },
+    "Cranberry Scone": {
+      "opening": 1098.0,
+      "sold": 502.0,
+      "waste": 596.0,
+      "rate_pct": 54.28051001821493,
+      "sellthrough_pct": 45.71948998178507,
+      "remainder": 0.0,
+      "rows": 61
+    },
+    "Chocolate Croissant": {
+      "opening": 1098.0,
+      "sold": 519.0,
+      "waste": 579.0,
+      "rate_pct": 52.73224043715847,
+      "sellthrough_pct": 47.26775956284153,
+      "remainder": 0.0,
+      "rows": 61
+    },
+    "Ginger Scone": {
+      "opening": 2976.0,
+      "sold": 840.0,
+      "waste": 2140.0,
+      "rate_pct": 71.90860215053763,
+      "sellthrough_pct": 28.225806451612904,
+      "remainder": -4.0,
+      "rows": 62
+    },
+    "Almond Croissant": {
+      "opening": 1080.0,
+      "sold": 480.0,
+      "waste": 600.0,
+      "rate_pct": 55.55555555555556,
+      "sellthrough_pct": 44.44444444444444,
+      "remainder": 0.0,
+      "rows": 60
+    }
+  },
+  "stores": {
+    "Astoria": {
+      "opening": 2346.0,
+      "sold": 847.0,
+      "waste": 1467.0,
+      "rate_pct": 62.531969309462916,
+      "sellthrough_pct": 36.10400682011935,
+      "remainder": 32.0,
+      "rows": 97
+    },
+    "Lower Manhattan": {
+      "opening": 2520.0,
+      "sold": 930.0,
+      "waste": 1590.0,
+      "rate_pct": 63.095238095238095,
+      "sellthrough_pct": 36.904761904761905,
+      "remainder": 0.0,
+      "rows": 105
+    },
+    "Hell's Kitchen": {
+      "opening": 2520.0,
+      "sold": 1077.0,
+      "waste": 1443.0,
+      "rate_pct": 57.26190476190476,
+      "sellthrough_pct": 42.73809523809524,
+      "remainder": 0.0,
+      "rows": 105
+    }
+  },
+  "daily": {
+    "2019-04-01": {
+      "opening": 120.0,
+      "sold": 46.0,
+      "waste": 74.0,
+      "rate_pct": 61.666666666666664,
+      "sellthrough_pct": 38.333333333333336,
+      "remainder": 0.0,
+      "rows": 5
+    },
+    "2019-04-02": {
+      "opening": 120.0,
+      "sold": 46.0,
+      "waste": 74.0,
+      "rate_pct": 61.666666666666664,
+      "sellthrough_pct": 38.333333333333336,
+      "remainder": 0.0,
+      "rows": 5
+    },
+    "2019-04-03": {
+      "opening": 120.0,
+      "sold": 41.0,
+      "waste": 79.0,
+      "rate_pct": 65.83333333333333,
+      "sellthrough_pct": 34.166666666666664,
+      "remainder": 0.0,
+      "rows": 5
+    },
+    "2019-04-04": {
+      "opening": 120.0,
+      "sold": 48.0,
+      "waste": 72.0,
+      "rate_pct": 60.0,
+      "sellthrough_pct": 40.0,
+      "remainder": 0.0,
+      "rows": 5
+    },
+    "2019-04-05": {
+      "opening": 18.0,
+      "sold": 0.0,
+      "waste": 0.0,
+      "rate_pct": 0.0,
+      "sellthrough_pct": 0.0,
+      "remainder": 18.0,
+      "rows": 1
+    },
+    "2019-04-06": {
+      "opening": 120.0,
+      "sold": 70.0,
+      "waste": 50.0,
+      "rate_pct": 41.666666666666664,
+      "sellthrough_pct": 58.333333333333336,
+      "remainder": 0.0,
+      "rows": 5
+    },
+    "2019-04-07": {
+      "opening": 360.0,
+      "sold": 104.0,
+      "waste": 256.0,
+      "rate_pct": 71.11111111111111,
+      "sellthrough_pct": 28.88888888888889,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-08": {
+      "opening": 360.0,
+      "sold": 118.0,
+      "waste": 242.0,
+      "rate_pct": 67.22222222222223,
+      "sellthrough_pct": 32.77777777777778,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-09": {
+      "opening": 342.0,
+      "sold": 91.0,
+      "waste": 251.0,
+      "rate_pct": 73.39181286549707,
+      "sellthrough_pct": 26.608187134502923,
+      "remainder": 0.0,
+      "rows": 14
+    },
+    "2019-04-10": {
+      "opening": 360.0,
+      "sold": 110.0,
+      "waste": 250.0,
+      "rate_pct": 69.44444444444444,
+      "sellthrough_pct": 30.555555555555557,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-11": {
+      "opening": 360.0,
+      "sold": 127.0,
+      "waste": 233.0,
+      "rate_pct": 64.72222222222223,
+      "sellthrough_pct": 35.27777777777778,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-12": {
+      "opening": 360.0,
+      "sold": 133.0,
+      "waste": 227.0,
+      "rate_pct": 63.05555555555556,
+      "sellthrough_pct": 36.94444444444444,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-13": {
+      "opening": 360.0,
+      "sold": 123.0,
+      "waste": 237.0,
+      "rate_pct": 65.83333333333333,
+      "sellthrough_pct": 34.166666666666664,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-14": {
+      "opening": 360.0,
+      "sold": 167.0,
+      "waste": 197.0,
+      "rate_pct": 54.72222222222222,
+      "sellthrough_pct": 46.388888888888886,
+      "remainder": -4.0,
+      "rows": 15
+    },
+    "2019-04-15": {
+      "opening": 360.0,
+      "sold": 149.0,
+      "waste": 211.0,
+      "rate_pct": 58.611111111111114,
+      "sellthrough_pct": 41.388888888888886,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-16": {
+      "opening": 360.0,
+      "sold": 144.0,
+      "waste": 216.0,
+      "rate_pct": 60.0,
+      "sellthrough_pct": 40.0,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-17": {
+      "opening": 360.0,
+      "sold": 149.0,
+      "waste": 211.0,
+      "rate_pct": 58.611111111111114,
+      "sellthrough_pct": 41.388888888888886,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-18": {
+      "opening": 306.0,
+      "sold": 117.0,
+      "waste": 171.0,
+      "rate_pct": 55.88235294117647,
+      "sellthrough_pct": 38.23529411764706,
+      "remainder": 18.0,
+      "rows": 12
+    },
+    "2019-04-19": {
+      "opening": 360.0,
+      "sold": 159.0,
+      "waste": 201.0,
+      "rate_pct": 55.833333333333336,
+      "sellthrough_pct": 44.166666666666664,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-20": {
+      "opening": 360.0,
+      "sold": 163.0,
+      "waste": 197.0,
+      "rate_pct": 54.72222222222222,
+      "sellthrough_pct": 45.27777777777778,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-21": {
+      "opening": 360.0,
+      "sold": 161.0,
+      "waste": 199.0,
+      "rate_pct": 55.27777777777778,
+      "sellthrough_pct": 44.72222222222222,
+      "remainder": 0.0,
+      "rows": 15
+    },
+    "2019-04-22": {
+      "opening": 240.0,
+      "sold": 102.0,
+      "waste": 138.0,
+      "rate_pct": 57.5,
+      "sellthrough_pct": 42.5,
+      "remainder": 0.0,
+      "rows": 10
+    },
+    "2019-04-23": {
+      "opening": 240.0,
+      "sold": 93.0,
+      "waste": 147.0,
+      "rate_pct": 61.25,
+      "sellthrough_pct": 38.75,
+      "remainder": 0.0,
+      "rows": 10
+    },
+    "2019-04-24": {
+      "opening": 240.0,
+      "sold": 105.0,
+      "waste": 135.0,
+      "rate_pct": 56.25,
+      "sellthrough_pct": 43.75,
+      "remainder": 0.0,
+      "rows": 10
+    },
+    "2019-04-25": {
+      "opening": 240.0,
+      "sold": 109.0,
+      "waste": 131.0,
+      "rate_pct": 54.583333333333336,
+      "sellthrough_pct": 45.416666666666664,
+      "remainder": 0.0,
+      "rows": 10
+    },
+    "2019-04-26": {
+      "opening": 240.0,
+      "sold": 102.0,
+      "waste": 138.0,
+      "rate_pct": 57.5,
+      "sellthrough_pct": 42.5,
+      "remainder": 0.0,
+      "rows": 10
+    },
+    "2019-04-27": {
+      "opening": 240.0,
+      "sold": 77.0,
+      "waste": 163.0,
+      "rate_pct": 67.91666666666667,
+      "sellthrough_pct": 32.083333333333336,
+      "remainder": 0.0,
+      "rows": 10
+    }
+  },
+  "quality": {
+    "stock_review": 3,
+    "percentage_review": 18,
+    "unmatched_products": 0,
+    "unmatched_stores": 0,
+    "duplicate_store_date_product_keys": 0
+  }
+}
